@@ -15,17 +15,17 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
-Circulate the n varibles
-
-Developed by: RAMYA R
-
-reg no:212223230169
 ```
+Circulate the n varibles
+Developed by: RAMYA R
+reg no:212223230169
 def circulate():
     list1=eval(input())
     n=int(input())
     print("After circulating the values are:",list1[n:]+list1[:n])
 ``` 
 ## Output:
+![Screenshot 2024-03-04 175513](https://github.com/ramya23000505/Circulate-the-values-of-N-variables/assets/149370791/2afc3155-f718-46dd-b7f9-10c3c3d1d5eb)
 
 ## Result:
+   Thus circulate the n variables using function concept are successfully executed
