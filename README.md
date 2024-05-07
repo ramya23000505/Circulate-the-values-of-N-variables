@@ -1,4 +1,5 @@
 # Circulate-the-values-of-N-variables
+## Date:
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
@@ -19,15 +20,15 @@ finally print the result
 ```
 Circulate the n varibles
 Developed by: RAMYA R
-reg no:212223230169
+Register Number: 212223230169
 def circulate():
     list1=eval(input())
     n=int(input())
     print("After circulating the values are:",list1[n:]+list1[:n])
 ``` 
 ## Output:
-![Screenshot 2024-04-15 134044](https://github.com/ramya23000505/Circulate-the-values-of-N-variables/assets/149370791/c250d406-9575-4170-9ef0-5241db6f2c6f)
-![Screenshot 2024-03-04 175513](https://github.com/ramya23000505/Circulate-the-values-of-N-variables/assets/149370791/2afc3155-f718-46dd-b7f9-10c3c3d1d5eb)
+![alt text](<2 in.png>)
+![alt text](<2 ot.png>)
 
 ## Result:
    Thus circulate the n variables using function concept are successfully executed
